@@ -1,6 +1,6 @@
-# I2C Driver for MSP430G2553 with an MPU6050
+# I2C Driver for MSP430G2553 with an MPU6050 
 
-A very basic I2C driver implementation that enables communication between an MSP430G2553 microcontroller and an MPU6050 IMU sensor. While tailored for the MPU6050, parts of the code are modular enough to be adapted for other I2C devices.
+A very basic I2C driver implementation that enables communication between an MSP430G2553 and an MPU6050. While tailored for the MPU6050, parts of the code are modular enough to be adapted for other I2C devices.
 
 ## Parts Used
 - MSP430G2553
